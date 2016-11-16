@@ -23,8 +23,16 @@ E is an example of Set of Ordered Pairs
 
 G represents the graph as 1 ordered pair.
 
-### Exercises
+### Exercise
 
-###### “Das ist das Haus vom Nikolaus”
+Find the quickest path from Vertex A to Vertex Z for each of the following:
 
-![hausVomNikolaus](hausVomNikolaus.gif)
+![img1](exerciseImages/img1.png)
+
+![img2](exerciseImages/img2.png)
+
+![img3](exerciseImages/img3.png)
+
+![img4](exerciseImages/img4.png)
+
+![img5](exerciseImages/img5.png)
