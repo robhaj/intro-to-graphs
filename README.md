@@ -23,7 +23,7 @@ E is an example of Set of Ordered Pairs
 
 G represents the graph as 1 ordered pair.
 
-### Exercise
+### Exercises
 Find the quickest path from Vertex A to Vertex Z:
 ![img1](exerciseImages/img1.png)
 
