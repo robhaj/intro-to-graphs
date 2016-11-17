@@ -40,6 +40,7 @@ Find the longest path from Vertex A to Vertex Z:
 ![img5](exerciseImages/img5.png)
 
 Create graphs from the following notations:
+
 1.
 V = {A,B,C,D,E}
 E = {(A,E),{B,D},(C,E),{C,A},(E,D)}
