@@ -14,12 +14,12 @@
 ![sixNodeGraph](sixNodeGraph.jpg)
 
 - V = {1,2,3,4,5,6}
-- E = {{1,2},{1,5},{2,3},{2,5},{3,4},{4,5},{4,6}}
+- E = {(1,2),{1,5},(2,3),(2,5),{3,4},{4,5},(4,6)}
 - G = (V,E)
 
 V is an example of Set Notation
 
-E is an example of Set of Ordered Pairs
+E is an example of Set of Ordered Pairs and Unordered Pairs
 
 G represents the graph as 1 ordered pair.
 
@@ -38,3 +38,12 @@ Find the quickest path from Vertex A to Vertex Z:
 
 Find the longest path from Vertex A to Vertex Z:
 ![img5](exerciseImages/img5.png)
+
+Create graphs from the following notations:
+1.
+V = {A,B,C,D,E}
+E = {(A,E),{B,D},(C,E),{C,A},(E,D)}
+
+2.
+V = {'Denver','Boulder','Fort Collins','Colorado Springs','Breckenridge'}
+E = {{'Denver','Boulder'},{'Fort Collins', 'Breckenridge'},('Boulder', 'Fort Collins')}
